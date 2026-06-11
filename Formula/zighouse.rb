@@ -6,7 +6,7 @@ class Zighouse < Formula
 
   stable do
     url "https://github.com/donge/zighouse/archive/refs/tags/v1.0.0.tar.gz"
-    sha256 "97b03a5fdc46773ca4ba3eaa5ca31dae4cd5e98c88adf30a9e31989bbbd2d8b7"
+    sha256 "1ed1d4f1edc779ec2d1e1eb251c0e3928dfc1528ea48d83c3ca147e3b5012b59"
   end
 
   depends_on "zig" => :build
